@@ -1,23 +1,27 @@
-Check out the site [here](http://reflective-ants.surge.sh/)
+# Guardian News Summary App
+
+## Approach
+
+TBU
 
 ## User Stories
 
 ```
-As a busy politician
-I can see all of today's headlines in one place
-So I know what the big stories of the day are
+As a User
+So I can keep up to date with the latest headlines
+I would like to see all of today's headlines in one place
 ```
 ```
-As a busy politician
-I can click a link to see the original news article
-So that I can get an in depth understanding of a very important story
+As a User
+So I can explore a Headline in more detail
+I woud like to click the headline link and be taken to the full story
 ```
-
-## Domain Modelling
 
 ## Technologies
 
-- Programming Language: Javascript, HTML, CSS
-- Server: [http-server](https://www.npmjs.com/package/http-server)
+- Programming Language: Javascript, CSS, HTML
+- API: [The Guardians API](https://open-platform.theguardian.com/explore/).
 
-I fetched the data required from [The Guardians API](https://open-platform.theguardian.com/explore/).
+## How to run 
+
+Check out the App [here](http://expensive-fairies.surge.sh/)
