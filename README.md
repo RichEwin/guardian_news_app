@@ -1,4 +1,4 @@
-# Guardian News Summary App
+# Guardian News App
 
 ## Approach
 
