@@ -1,9 +1,5 @@
 # Guardian News App
 
-## Approach
-
-TBU
-
 ## User Stories
 
 ```
