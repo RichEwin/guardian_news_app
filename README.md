@@ -16,8 +16,15 @@ I woud like to click the headline link and be taken to the full story
 ## Technologies
 
 - Programming Language: Javascript, CSS, HTML
-- API: [The Guardians API](https://open-platform.theguardian.com/explore/).
+- Testing Framework: Jasmine 
+- API: [Guardian API](https://open-platform.theguardian.com/explore/).
 
 ## How to run 
 
-Check out the App [here](http://expensive-fairies.surge.sh/)
+In your preferred browser, navigate [here](http://expensive-fairies.surge.sh/)
+
+To view the code:
+
+- Fork and clone this repo to your chosen folder
+- Open ```SpecRunner.html``` in your browser to run tests
+- Open ```index.html``` to run the applicaton
